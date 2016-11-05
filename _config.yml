@@ -10,7 +10,7 @@ highlighter: rouge
 paginate: 20
 
 markdown: kramdown
-Kramdown:
+kramdown:
     extensions: ['smart']
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
