@@ -9,8 +9,8 @@ gems: [jekyll-paginate]
 highlighter: pygments
 paginate: 20
 
-kramdown: rdiscount
-rdiscount:
+markdown: kramdown
+kramdown:
     extensions: ['smart']
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
