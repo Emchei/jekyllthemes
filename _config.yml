@@ -9,7 +9,7 @@ gems: [jekyll-paginate]
 highlighter: pygments
 paginate: 20
 
-kramdown: rdiscount
+markdown: kramdown
 rdiscount:
     extensions: ['smart']
 
